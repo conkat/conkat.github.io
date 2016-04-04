@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+We are .conkat. We concatenate our coding powers to create fresh new apps. We contribute our Open Sourcery to [hood.ie](http://hood.ie). We <3 Rails Girls BLN.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+-- Katrin
+[Github](https://github.com/lisbethmarianne)
+[Twitter](https://twitter.com/lisbethmarianne)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+-- Conny
+[Github](https://github.com/supernoir)
+[Twitter](https://twitter.com/ckawohl)
