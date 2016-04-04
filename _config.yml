@@ -8,7 +8,7 @@
 # Site settings
 title: conkat Project Blog
 email: kawohl.bentodesign@gmail.com
-description: > Katrin and Conny's fancy fantastic fabulous Rails Girls Summer of Code Blog. Updated when the stars align just right.
+description: Katrin and Conny's fancy fantastic fabulous Rails Girls Summer of Code Blog. Updated when the stars align just right.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://conkat.github.io" # the base hostname & protocol for your site
 twitter_username:
