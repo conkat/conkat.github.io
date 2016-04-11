@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We are .conkat. We concatenate our coding powers to create fresh new apps. We contribute our Open Sourcery to [hood.ie](http://hood.ie). We <3 Rails Girls BLN.
+We are .conkat. We concatenate our coding powers to create fresh new apps. We <3 Rails Girls BLN.
 
--- Katrin
-[Github](https://github.com/lisbethmarianne)
-[Twitter](https://twitter.com/lisbethmarianne)
-
--- Conny
-[Github](https://github.com/supernoir)
-[Twitter](https://twitter.com/ckawohl)
+Conny: {% include icon-github.html username="supernoir" %} · {% include icon-twitter.html username="ckawohl" %}
+Katrin: {% include icon-github.html username="lisbethmarianne" %} · {% include icon-twitter.html username="lisbethmarianne" %}
